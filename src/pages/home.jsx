@@ -12,7 +12,7 @@ export default function Home() {
                 <a href="" className="btn btn-info text-white btn-lg">Crea tu cuenta</a>
             </section>
             <section className="container mb-5 mt-5">
-                <h2 className="text-center mb-4">¿Que quieres hacer?</h2>
+                <h2 className="text-center mb-4">¿Que quieres hacer ahora?</h2>
                 <div className="row g-4">
                     <div className="col-lg-6 col-md-6">
                         <div className="card h-100 shadow-sm">
