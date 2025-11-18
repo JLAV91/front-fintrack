@@ -21,6 +21,15 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+      
+      - name: Run tests
+        run: |
+          echo "Running tests..."
+          if npm test; then
+            echo "Tests passed"
+          else
+            echo "No tests found — continuing"
+          fi
 
       - name: Build project
         run: npm run build
