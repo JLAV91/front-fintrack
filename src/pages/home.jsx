@@ -5,9 +5,8 @@ export default function Home() {
         <main className="container py-3 flex-fill">
 
             <section className="text-center mb-5" id="Nosotros">
-                <h1 className="display-4 fw-bold">Bienvenido a Fin-Track</h1>
-                <p className="lead">Tu plataforma para organizar finanzas, controlar gastos y alcanzar tus metas financieras de
-                    manera facil.
+                <h1 className="display-4 fw-bold">Bienvenido EcoMarket</h1>
+                <p className="lead">Donde encuentras productos ecológicos y sostenibles para un estilo de vida consciente
                 </p>
                 <a href="" className="btn btn-info text-white btn-lg">Crea tu cuenta</a>
             </section>
@@ -19,9 +18,7 @@ export default function Home() {
                             <div className="card-body">
                                 <h5 className="card-title">Ingresa tu orden de compra</h5>
                                 <p className="card-text">
-                                    Conocer tus opciones es el primer paso para manejar mejor tu dinero.
-                                    Infórmate sobre productos financieros, compara alternativas y toma decisiones más
-                                    seguras.
+                                    Aqui puedes ingresar tu orden de compra para adquirir productos ecológicos y sostenibles.
                                 </p>
                                 <a href="#" className="btn btn-info text-white btn-lg">Click aqui</a>
                             </div>
@@ -32,9 +29,7 @@ export default function Home() {
                             <div className="card-body">
                                 <h5 className="card-title">Gestiona tu pedido</h5>
                                 <p className="card-text">
-                                    Conocer tus opciones es el primer paso para manejar mejor tu dinero.
-                                    Infórmate sobre productos financieros, compara alternativas y toma decisiones más
-                                    seguras.
+                                    Tu tambien aportas al cuidado del planeta al elegir productos que respetan el medio ambiente.
                                 </p>
                                 <a href="#" className="btn btn-info text-white btn-lg">Click aqui</a>
                             </div>
@@ -45,9 +40,7 @@ export default function Home() {
                             <div className="card-body">
                                 <h5 className="card-title">Estado de pedidos</h5>
                                 <p className="card-text">
-                                    Define metas claras y traza el camino para alcanzarlas. La planificación convierte tus
-                                    finanzas
-                                    en una herramienta para lograr tranquilidad y crecimiento.
+                                    Conocenos mejor y descubre como juntos podemos hacer la diferencia.
                                 </p>
                                 <a href="#" className="btn btn-info text-white btn-lg">Click aqui</a>
                             </div>
@@ -58,9 +51,7 @@ export default function Home() {
                             <div className="card-body">
                                 <h5 className="card-title">Pedidos enviados</h5>
                                 <p className="card-text">
-                                    Organiza tus ingresos y gastos en un plan realista. Un buen presupuesto te permite
-                                    anticipar,
-                                    controlar y aprovechar mejor cada peso.
+                                    Organiza tus compras y recibe tus productos de manera eficiente y sostenible.
                                 </p>
                                 <a href="#" className="btn btn-info text-white btn-lg">Click aqui</a>
                             </div>

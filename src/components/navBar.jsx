@@ -16,13 +16,13 @@ export default function NavBar() {
                 <div className="collapse navbar-collapse justify-content-between" id="navbarNav">
                     <ul className="navbar-nav mx-auto">
                         <Link to="/" className="nav-item nav-link">
-                            <li className="nav-item nav-link">Inicio</li>
+                            <li className="nav-item nav-link">Ofertas</li>
                         </Link>
                         <Link to="/" className="nav-item nav-link">
                             <li className="nav-item nav-link">Sobre Nosotros</li>
                         </Link>
                         <Link to="/" className="nav-item nav-link"  >
-                            <li className="nav-item nav-link">Consejos</li>
+                            <li className="nav-item nav-link">Productos</li>
                         </Link>
                         <Link to="/" className="nav-item nav-link">
                             <li className="nav-item nav-link">Contacto</li>
